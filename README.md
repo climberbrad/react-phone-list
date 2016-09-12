@@ -1,5 +1,5 @@
 # react-phone-list
-Simple react app
+A simple react app which displays a list of contacts in memory and search/add them.
 * ```npm init```
 * ```npm install```
 * ```./node_modules/.bin/webpack-dev-server```
